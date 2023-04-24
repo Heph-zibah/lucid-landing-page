@@ -9,7 +9,7 @@ const Nav = () => {
       </h1>
 
       <a
-        href="https://dashboard.mailerlite.com/forms/413086/86287766183216357/share"
+        href="https://forms.gle/agg4UHFPsuxWySMX9"
         className="bg-[#090429] text-white py-3 px-5 rounded text-2xl"
       >
         Register
